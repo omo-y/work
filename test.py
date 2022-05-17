@@ -1,3 +1,4 @@
+import streamlit
 import matplotlib.pyplot as plt        #  初回実行時のみ1-2分かかるかも．
 import numpy
 
