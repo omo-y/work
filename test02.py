@@ -1,6 +1,7 @@
 import streamlit as st
 import matplotlib
 import matplotlib.pyplot as plt
+plt.use('tkagg')
 import numpy as np
 
 x = [0, 1, 2, 3, 4, 5]
