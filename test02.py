@@ -1,6 +1,6 @@
 import streamlit as st
 import matplotlib as mpl
-mpl.use('tkagg')
+mpl.use('agg')
 import matplotlib.pyplot as plt
 import numpy as np
 
